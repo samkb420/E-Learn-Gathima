@@ -182,7 +182,7 @@ Download Path
       
 
 
-      Resource/Grade-Eight/  . . . . . . .
+      Resource/Class-Eight/  . . . . . . .
 
 
 
